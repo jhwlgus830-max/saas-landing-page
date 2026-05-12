@@ -6,22 +6,22 @@ export default function Hero() {
   return (
     <section className="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden">
       <div className="absolute inset-0 -z-10 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-brand-50 via-white to-white"></div>
-      
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative text-center">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-brand-50 text-brand-600 text-sm font-medium mb-8 border border-brand-100 shadow-sm animate-fade-in-up">
           <span className="flex h-2 w-2 rounded-full bg-brand-500"></span>
           WriteFlow 2.0 출시
         </div>
-        
+
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-slate-900 mb-6 text-balance mx-auto">
-          AI와 함께 <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-500 to-indigo-600">더 빠르게 더 잘</span> 쓰세요
+          양지현의 AI와 함께 <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-500 to-indigo-600">더 빠르게 더 잘</span> 쓰세요
         </h1>
-        
+
         <p className="mt-4 text-lg md:text-xl text-slate-600 max-w-2xl mx-auto mb-10 text-balance leading-relaxed">
-          아이디어를 몇 초 만에 완성된 콘텐츠로 바꿔보세요. 
+          아이디어를 몇 초 만에 완성된 콘텐츠로 바꿔보세요.
           창의적인 흐름을 방해하지 않는 인텔리전트 라이팅 어시스턴트.
         </p>
-        
+
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
           <Link
             href="#trial"
@@ -38,7 +38,7 @@ export default function Hero() {
             데모 보기
           </Link>
         </div>
-        
+
         <div className="relative mx-auto max-w-5xl rounded-2xl border border-slate-200/50 bg-white/50 p-2 backdrop-blur-xl shadow-2xl ring-1 ring-slate-900/5">
           <div className="rounded-xl overflow-hidden bg-slate-100 border border-slate-200 aspect-video relative flex items-center justify-center">
             {/* Using a placeholder gradient for the UI mockup */}
