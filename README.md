@@ -1,5 +1,7 @@
 # WriteFlow - AI 글쓰기 어시스턴트 랜딩 페이지
 
+![WriteFlow Landing Page](./design/screen.png)
+
 WriteFlow는 인공지능 기반의 지능형 라이팅 어시스턴트를 위한 모던 SaaS 랜딩 페이지입니다. Next.js 16 (App Router)과 Tailwind CSS v4를 기반으로 구축되었으며, 깔끔하고 전문적인 디자인과 부드러운 상호작용(Micro-animations)을 특징으로 합니다.
 
 ## 🌐 라이브 데모 (배포 링크)
